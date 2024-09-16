@@ -1,0 +1,21 @@
+{
+  "batch_size": 32,
+  "cliprange": 0.2,
+  "cliprange_value": 0.2,
+  "cls_model_name": "lvwerra/bert-imdb",
+  "epochs": 25600,
+  "forward_batch_size": 4,
+  "gamma": 1,
+  "hidden_size": 768,
+  "horizon": 1000,
+  "init_kl_coef": 0.2,
+  "lam": 0.95,
+  "lr": 1.41e-05,
+  "ppo_epochs": 4,
+  "target": 6,
+  "tb_path": "runs",
+  "tk_name": "gpt2",
+  "txt_in_len": 5,
+  "txt_out_len": 15,
+  "vf_coef": 0.1
+}

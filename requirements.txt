@@ -1,0 +1,10 @@
+huggingface-hub==0.24.5
+numpy==1.26.3
+safetensors==0.4.4
+sentencepiece==0.2.0
+tiktoken==0.7.0
+tokenizers==0.19.1
+torch==2.4.0+cu118
+tqdm==4.66.5
+transformers==4.43.4
+triton==3.0.0
