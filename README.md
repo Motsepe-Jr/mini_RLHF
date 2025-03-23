@@ -58,7 +58,6 @@ The core optimization is carried out using the PPO algorithm, which helps the mo
 2. PPO training should take around 3 hours on a single NVIDIA RTX 3080 GPU. The checkpoints will be saved under the ppo_checkpoints/ directory.
 
 ### 4. Example Results
-
 Before and after training, the model will be able to generate more positive reviews when prompted with movie-related queries. The following is an example of the model’s responses before and after the PPO training process.
 
 <div style="text-align: center">
